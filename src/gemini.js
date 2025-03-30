@@ -4,7 +4,7 @@ import {
     HarmBlockThreshold // ✅ Fixed typo in "HarmBlockThreshold"
 } from "@google/generative-ai";
 
-const apiKey = "AIzaSyDkn0TFY_o87HtRrK7IY_Mc-xXt9p5Ephc"; // ✅ Keeping it as you prefer
+const apiKey = "put your gemini api key"; // ✅ Keeping it as you prefer
 
 const genAI = new GoogleGenerativeAI(apiKey);
 
